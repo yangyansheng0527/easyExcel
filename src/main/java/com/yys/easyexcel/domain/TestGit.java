@@ -13,4 +13,8 @@ public class TestGit {
     public void gitOne(){
         System.out.println("git11111112");
     }
+
+    public void gitTwo(){
+        System.out.println("git11111112");
+    }
 }
